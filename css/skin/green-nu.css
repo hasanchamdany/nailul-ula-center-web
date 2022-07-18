@@ -198,13 +198,13 @@ a, a:hover, a:focus {
 
 /* === Contact === */
 #contact-section {
-	background-color: #4E7AC7;
+	background-color: #4ec754;
 }
 #contact-section .contact .contact-form button {
-	background-color: #4E7AC7;
+	background-color: #6dd44e;
 }
 #contact-section .contact .contact-form button:hover {
-	background-color: #7FB2F0;
+	background-color: #92f07f;
 }
 
 
